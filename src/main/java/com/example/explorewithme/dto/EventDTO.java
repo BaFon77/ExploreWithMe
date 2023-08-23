@@ -7,4 +7,5 @@ public class EventDTO {
     private String name;
     private Integer price;
     private String description;
+    private Long categoryId;
 }
